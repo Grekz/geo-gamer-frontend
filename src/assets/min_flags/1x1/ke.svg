@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 512 512">
+    <defs>
+        <path id="a" stroke-miterlimit="10" d="M-29 48l2 1 47-81c3-1 4-4 6-6 1-2 5-9 6-18a58 58 0 0 0-12 15c-1 2-3 5-2 8z"/>
+    </defs>
+    <path fill="#fff" d="M0 0h512v512H0z"/>
+    <path d="M0 0h512v154H0z"/>
+    <path fill="#060" d="M0 358h512v154H0z"/>
+    <g id="b" transform="matrix(3.2 0 0 3.2 256 256)">
+        <use width="100%" height="100%" stroke="#000" xlink:href="#a"/>
+        <use width="100%" height="100%" fill="#fff" xlink:href="#a"/>
+    </g>
+    <use width="100%" height="100%" transform="matrix(-1 0 0 1 512 0)" xlink:href="#b"/>
+    <path fill="#b00" d="M256 102c-19 0-51 52-61 77H0v154h195c10 25 42 77 61 77s51-52 61-77h195V179H317c-10-25-42-77-61-77z"/>
+    <path id="c" d="M317 333a220 220 0 0 0 16-77 220 220 0 0 0-16-77 220 220 0 0 0-16 77 220 220 0 0 0 16 77"/>
+    <use width="100%" height="100%" transform="matrix(-1 0 0 1 512 0)" xlink:href="#c"/>
+    <g fill="#fff" transform="matrix(3.2 0 0 3.2 256 256)">
+        <ellipse rx="4" ry="6"/>
+        <path id="d" d="M1 6s4 8 4 21-4 21-4 21z"/>
+        <use width="100%" height="100%" transform="scale(-1)" xlink:href="#d"/>
+        <use width="100%" height="100%" transform="scale(-1 1)" xlink:href="#d"/>
+        <use width="100%" height="100%" transform="scale(1 -1)" xlink:href="#d"/>
+    </g>
+</svg>

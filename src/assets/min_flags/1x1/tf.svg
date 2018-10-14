@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 512 512">
+    <defs>
+        <path id="a" fill="#fff" d="M0-21l12 38-32-23h40l-32 23z"/>
+    </defs>
+    <path fill="#002395" d="M0 0h512v512H0z"/>
+    <path fill="#fff" d="M0 0h312v210H0z"/>
+    <path fill="#002395" d="M0 0h102v205H0z"/>
+    <path fill="#ed2939" d="M205 0h102v205H205z"/>
+    <path fill="#fff" d="M282 234l17 26h47v92l-36-55-47 76h23l25-44 49 90 50-90 25 44h23l-47-76-36 55v-51h21l16-25h-37v-16h47l17-26H282zm55 112h-51v18h51zm98 0h-52v18h52z"/>
+    <use width="100%" height="100%" x="416" y="362" transform="translate(-172) scale(1.28)" xlink:href="#a"/>
+    <use width="100%" height="100%" x="371" y="328" transform="translate(-172) scale(1.28)" xlink:href="#a"/>
+    <use width="100%" height="100%" x="461" y="328" transform="translate(-172) scale(1.28)" xlink:href="#a"/>
+    <use width="100%" height="100%" x="333" y="227" transform="translate(-172) scale(1.28)" xlink:href="#a"/>
+    <use width="100%" height="100%" x="499" y="227" transform="translate(-172) scale(1.28)" xlink:href="#a"/>
+</svg>

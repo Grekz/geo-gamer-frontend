@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480">
+    <defs>
+        <clipPath id="a">
+            <path d="M0 0h496v372H0z"/>
+        </clipPath>
+    </defs>
+    <g clip-path="url(#a)" transform="scale(1.2902)">
+        <path fill="#fff" fill-rule="evenodd" d="M0 0h500v248H0z"/>
+        <path fill="#c00" d="M0 0v19l119 61 45 1L0 0z"/>
+        <path fill="#006" d="M51 0l145 76V0H51z"/>
+        <path fill="#c00" d="M215 0v96H0v55h215v97h66v-97h215V96H281V0h-66z"/>
+        <path fill="#006" d="M300 0v71L442 1 300 0z"/>
+        <path fill="#c00" d="M305 79h39L500 1h-41L305 79z"/>
+        <path fill="#006" d="M0 168v52l99-52H0z"/>
+        <path fill="#c00" d="M382 170l-42-1 156 78-1-18-113-59zM39 248l146-76h-39L1 248"/>
+        <path fill="#006" d="M498 22L380 80l116 1v87h-99l98 53 2 27h-53l-143-71v71H196v-71L61 248H0v248h992V0H499M1 28L0 79l104 2L1 28z"/>
+        <g fill="#ffd900" fill-rule="evenodd">
+            <path d="M496 0h496v496H496z"/>
+            <path d="M0 248h524v248H0z"/>
+        </g>
+        <g fill-rule="evenodd">
+            <path fill="#000067" d="M291 125a43 43 0 1 1-86 0 43 43 0 0 1 86 0z"/>
+            <path fill="#fff40d" d="M240 114l8-24 9 24h26l-21 15 8 25-22-15-21 15 8-25-21-15zm149 4l4-11 4 11h13l-11 7 5 12-11-7-11 7 4-12-10-7zm-145 86l4-11 4 11h13l-10 7 4 12-11-8-11 8 5-12-11-7zm0-167l4-12 4 12h13l-10 7 4 12-11-7-11 7 5-12-11-7zM99 118l4-11 4 11h13l-10 7 4 12-11-7-11 7 4-12-10-7z"/>
+        </g>
+    </g>
+</svg>

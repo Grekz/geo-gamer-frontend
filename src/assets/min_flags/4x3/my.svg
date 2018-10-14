@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 640 480">
+    <path fill="#cc0001" d="M0 0h640v480H0z"/>
+    <path id="a" fill="#fff" d="M0 446h640v34H0z"/>
+    <use width="100%" height="100%" transform="translate(0 -69)" xlink:href="#a"/>
+    <use width="100%" height="100%" transform="translate(0 -137)" xlink:href="#a"/>
+    <use width="100%" height="100%" transform="translate(0 -206)" xlink:href="#a"/>
+    <use width="100%" height="100%" transform="translate(0 -274)" xlink:href="#a"/>
+    <use width="100%" height="100%" transform="translate(0 -343)" xlink:href="#a"/>
+    <use width="100%" height="100%" transform="translate(0 -411)" xlink:href="#a"/>
+    <path fill="#010066" d="M0 0h373v274H0z"/>
+    <g fill="#fc0">
+        <path d="M150 49c-49 0-89 39-89 88a89 89 0 0 0 89 89 89 89 0 0 0 48-14 79 79 0 0 1-26 4 79 79 0 0 1-79-79 79 79 0 0 1 106-73 89 89 0 0 0-49-16z"/>
+        <path d="M297 183l-37-19 11 40-25-34-8 41-8-41-25 34 11-40-37 19 28-31-43 1 39-16-39-16 43 1-28-31 37 20-11-40 25 33 8-41 8 41 25-33-11 40 37-20-28 31 43-1-39 16 39 17-43-2z"/>
+    </g>
+</svg>

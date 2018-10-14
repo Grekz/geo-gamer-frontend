@@ -1,0 +1,195 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 640 480">
+    <defs>
+        <linearGradient id="b">
+            <stop offset="0" stop-color="#d5dfff"/>
+            <stop offset="1" stop-color="#fff"/>
+        </linearGradient>
+        <linearGradient id="a">
+            <stop offset="0" stop-color="#474747"/>
+            <stop offset="1" stop-color="#f50"/>
+        </linearGradient>
+        <linearGradient id="c" x1="109" x2="111" y1="219" y2="173" gradientTransform="matrix(1.5 0 0 .65 41 0)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+        <linearGradient id="d" x1="126" x2="126" y1="316" y2="337" gradientTransform="matrix(1.23 0 0 .8 41 0)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#b50000"/>
+            <stop offset="1" stop-color="#ffc500"/>
+        </linearGradient>
+        <linearGradient id="e" x1="408" x2="456" y1="149" y2="147" gradientTransform="matrix(.56 0 0 1.76 41 0)" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
+        <linearGradient id="f" x1="216" x2="229" y1="103" y2="103" gradientTransform="matrix(.74 0 0 1.33 41 0)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+        <linearGradient id="g" x1="118" x2="78" y1="1040" y2="1004" gradientTransform="matrix(2.56 0 0 .38 41 0)" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
+        <linearGradient id="h" x1="265" x2="255" y1="246" y2="226" gradientTransform="matrix(.9 0 0 1.1 41 0)" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
+    </defs>
+    <path fill="#006" d="M0 0h640v480H0z"/>
+    <path fill="#fff" d="M0 0v33l403 262h51v-33L51 0H0zm454 0v33L51 295H0v-33L403 0h51z"/>
+    <path fill="#fff" d="M189 0v295h76V0h-76zM0 98v99h454V98H0z"/>
+    <path fill="#c00" d="M0 118v59h454v-59H0zM204 0v295h46V0h-46zM0 295l151-99h34L34 296H0zM0 0l151 98h-33L0 22V0zm269 98L420 0h34L303 98h-34zm185 197l-151-99h33l118 77v22z"/>
+    <path fill="#6a4c2d" fill-rule="evenodd" stroke="#000" d="M464 350s-3 8-5 8l-7-4-7 8-8-1-6-1v-3s-8 7-10 7l-8-9-1 4h-12l-10-7-6 10-10 2-1-2-6-4 5-7-3-1-3 3-8 5-8-4 4-6v-4l6-9 73-71 36 66-5 20z"/>
+    <path fill="#fff" fill-rule="evenodd" stroke="#000" d="M516 354h19l-8-4 72-3-10-4-9-12-38-3s-3-2-7-1l-4-7-23-2-15 10 10 25 13 1z"/>
+    <path fill="url(#c)" fill-rule="evenodd" stroke="#000" d="M121 151l2-8s5-6 5-9l2-7s9-2 11 3c10-14 21 0 21 0l3-4 6-8s9 9 9 10l2 1 10-1s5 3 4 10c3 2 6 14 6 14l-81-1z" transform="matrix(.86 0 0 .86 337 12)"/>
+    <path fill="#656263" fill-rule="evenodd" stroke="#000" d="M516 219c1-1 6-3 5-9-1-7-6-8-10-8l-6 3-11-6s6-34 12-36c5-4 6-6 6-7l-2-3-35-4-33 4-2 5c1 1 0 4 6 8 7 5 11 34 11 34l-10 4-4-1c-2 0-7 3-7 9 0 7 5 10 5 10s32-3 36 5c5-10 35-6 39-8z"/>
+    <path fill-rule="evenodd" stroke="#000" stroke-linejoin="round" d="M550 184s0-4 3-6c2-2 20-2 24 0s5 16 5 16l3 8 1 5s14 18 14 35c2 11 1 41-3 52 0 14-6 24-6 24l1 5-2 5 21 10-8-3 8 6-9-4 5 5-12-5 5 5-9-4 5 5-8-3 1 3s-7-1-7-5a23 23 0 0 1-5-5l-14-2-17-49 4-83 1-4-2-11z"/>
+    <path fill="#fb0" fill-rule="evenodd" stroke="#000" d="M539 449s-9-18-13-18c-4-7 13-66 46-70 18 2 1 21-11 15l8 13s-24 10-31 60zm-113 2s7-20 11-20-11-67-45-68c-18 2-1 21 11 15-2 6-8 13-8 13s24 10 31 60z"/>
+    <path fill="#00713d" fill-rule="evenodd" stroke="#000" d="M457 326c0-1-9 2-3 11 0-3 4-5 4-5s-6 6 0 12c1-5 4-7 4-7s-4 12 0 15c1-5 4-7 4-7s-4 11 0 13c0-4 3-6 3-6s-2 12 2 12l4-8s-2 10 5 10l2-7s3 10 7 8v-9s3 10 9 8v-6s3 6 8 4v-5s8 8 10 3-6-6-6-6h6s-2-5-10-6h6s-2-6-10-7h6s-1-6-9-8l5-1s-4-5-8-5l-39-4z"/>
+    <path fill="none" stroke="#3ec26d" stroke-linecap="round" d="M492 355s3 1 3 3m-1-6s4 3 4 5m-1-6s3 2 4 5m2-4l1 4m2-2v3m-40-21s4 3 4 6m-4-3l1 3m3-5s3 3 2 6m3-4s1 2 0 3m2-2s1 2 0 3m-2 4s4 1 4 4m-2-6s4 0 5 4m0-6l2 6m3-5v5m3-4v5m-4-11s2 1 2 3m0-5s3 1 2 5m1-7s3 3 2 7m3-6l-1 5m3-2s-1 1 0 3m-14 11v4m-4-5s2 3 1 5m-5-5l2 4m-5-4l2 3m-4 0l2 2"/>
+    <path fill="#fff" fill-rule="evenodd" stroke="#000" d="M431 222h27s17 0 19 5c4-7 19-7 19-7l28-1v67a72 72 0 0 1-45 52 69 69 0 0 1-45-52l-3-64z"/>
+    <path fill="#006b00" fill-rule="evenodd" stroke="#000" d="M440 222l39 104 36-106c-11 0-35-2-38 8-4-9-29-5-37-6z"/>
+    <path fill="#ffc900" fill-rule="evenodd" stroke="#006b00" stroke-linecap="round" d="M467 278c1 1 1-28 3-29l2-6c-2-3-9-3-12 0a75 75 0 0 0 2 5c3 6 3 31 5 30z"/>
+    <path fill="#cdad56" fill-rule="evenodd" stroke="#000" stroke-linejoin="round" d="M457 54l2-4s13-1 20-15c4-7 0-3 0-3v-3s5-5 3-7c-2-3-1 3-4 3s-1-7-1-7l-1-1c-2 0-1 3-2 3-2 0-3-5-3-5s-1-3-3 5c1 8 6 7 6 12 0 6-5 10-6 10l-1-5-1-2s3 0 2-7-2 2-4 2 0-7 0-8 0-4-5 4c0 4-1-1-2-1-1 4-1 6 1 9 3 3 5 5 5 7s-1 5-4 5 0-4 0-6l-4-6-2-4-1 3c-1 4-3-3-3-3s-2 6 2 9l-3 1 4 4c1 3-4 5-4 5s2 2 7-3l-2 6c2 1 3 0 4 2zM439 54l-2-4c0-1-12 1-17-13-3-7 0-3 0-3v-3s-3-4-2-7c2-2 1 3 3 3 3 0 1-6 1-6l1-1 3 4 3-5c1 0 1-3 2 4 0 7-7 6-7 11s4 9 6 9v-4l1-2c1 0-3 1-3-5 1-5 3 0 5 0 2-1 0-6 0-7 0 0 3-4 4 4 0 3 2-3 3-3 1 3-1 7-3 9-2 3-4 6-3 7 0 1 0 3 2 3s1-2 1-3l3-6 1-4c1 1 2-1 3 3s2-2 2-2 1 4-2 7l3 1-2 4a4 4 0 0 0 2 4s-2 2-6-2a8 8 0 0 0 1 5c-1 0-2 0-3 2z"/>
+    <path fill="#ffc900" fill-rule="evenodd" d="M508 237c-2-2-2 0-4 0l-1-1-2-1v2 2c0 2 0 3-2 3v-2l-1-2v-3h-2l-1 2c-1 1-3 0-5-1l3-1 1-2 2-1-1-2-3-1-1-3 2 2a4 4 0 0 1 3 0l2 1 1-2-1-2 2-4 1 4 1 1-1 3h3l1-2a8 8 0 0 1 4 0l-2 2-2 2h-2l1 2 3 1 1 3zm-60 1c2-2 3 0 4 0l1-1 2-1v4c0 2 1 3 2 3v-2l1-2v-3h2l2 2c1 1 3 0 4-1l-3-1-1-2-2-1 1-2 3-1 2-3-3 2h-3l-2 1-1-2 1-2-2-4v4l-2 1 1 3h-2l-2-2a8 8 0 0 0-3 0l2 2 1 2 2 1-1 1-3 1-1 4z"/>
+    <path fill="#ffc900" fill-rule="evenodd" stroke="#006b00" stroke-linecap="round" stroke-linejoin="round" d="M506 244c-2 2-16 5-16 17s3 15 0 15c-5 0-6-13-5-19v-5s3 1 3 4 3-7 2-10c2 2 5 1 5 1l-2-3 2 1s0-3-2-2c-4 0 0-2 0-2s2 2 4 0a12 12 0 0 0-4-2s-2-4-5-5-2 1-6 1c-1 2-1 2 1 2-3 2-1 5-1 5s3-2 3 1-2 2-3 1h-2l2 3s-4-1-5 2h3l-4 3c-1 1-1-1-1-1l-4-1-2 6s3 3 5 2l6-3c-5 4-10 9-13 10-1 0-3-3-4-2-1 2 0 3 1 3s-4 1-3 3c1 3 1 2 2 2 1-1-1-1 3-2s3-2 3-2l-2 2-3 1 1 2c-1 1 4-3 5 0 3 0 5-4 3-6 0 3 2 3 1 4s7-3 3-6l1 4h2v2c1 0 3 3 2 4l-2-2-6 3c-2 0 2 8 2 8l-3-1c-1 1-3-2-3-1-1 3 1 2 1 2s-2-1-3 0l-2 3h5l-4 1v2h3v1s4 1 4-3v2s4 1 4-3v3l3-1c0-1 0 7-2 9-3-2-4 1-4 1l-1 6 2-1 3-2 1-2-1 2-2 3 3 2 2-5v1l3-2c0-1-3-2 0-4 2-2 0 2 0 2l1 3s2-6 1-7l2 2s2-6 0-7l-3-1v-1c-1 0 3 3 4 2s1-4-3-5c-4-2 0-6 0-6s2 3 4 2c2-2 0-2 0-2s5-3 5-5h-2s3-2 2-5a4 4 0 0 1-3 2s3-3 2-5l-2 2c-1 0-3-10 1-11 4 0 2 5 2 5s6-3 0-6c2-1 5 2 5 2s-2-7-8-3l4-2c1 0 6 0 6-2h-5c-1 0 9-1 8-6z"/>
+    <path fill="none" stroke="#006b00" stroke-linecap="round" d="M481 119s13-7 19 1m5 12l-6 4m14 9s11 1 18-10M525 142s1 6 3 6-3 2-5 0c2 3 3 8 0 10" transform="matrix(.46 0 0 .5 240 190)"/>
+    <path fill="#e80000" fill-rule="evenodd" stroke="#006b00" stroke-linecap="round" d="M519 219s-4 4-9 5" transform="matrix(.46 0 0 .5 240 190)"/>
+    <path fill="none" stroke="#006b00" stroke-linecap="round" d="M524 199s-3-12-1-15c1-4 5-5 8-11m-8 17s-3 8-17 5m20-23s1 10-11 6m-4-50s-5 4-3 10" transform="matrix(.46 0 0 .5 240 190)"/>
+    <path fill="#006b00" fill-rule="evenodd" d="M484 248l3-2a9 9 0 0 0 2-3c0-1-2-2-1-4h4l-4-4c-2-1-2 2-3 1v2l1 1 2 4-4 5z"/>
+    <path fill="#ffc900" fill-rule="evenodd" stroke="#ffc900" stroke-linecap="round" stroke-linejoin="round" d="M534 97c3-1 3 0 3 3a7 7 0 0 1-3-3z" transform="matrix(.46 0 0 .5 240 190)"/>
+    <path fill="#e80000" fill-rule="evenodd" stroke="#006b00" stroke-linejoin="round" d="M515 234s-1 6 1 7l1-5-2-2zm-6-8c-2-1-6 1-5 4 2-2 4 0 5-2v-2zm0-5s-4-1-4 2h4v-2zM494 185s2 1 2 3c2-1 3-6-3-3zm-6 5s5-2 5 0l-2 2-3-2zm0 9s3-2 4-1c1 2-1 2-1 2l-3-1zm-4-49s-4-1-5 1l4 2c0-1-1-3 1-3zm-7 19s0-5 2-6l2 2c-1 1-3 1-4 4zm9-3s-4 1-2 3l2-1v-2z" transform="matrix(.46 0 0 .5 240 190)"/>
+    <path fill="#ffc900" fill-rule="evenodd" stroke="#006b00" stroke-linejoin="round" d="M481 126c-2 1 1 5 5 4 1-4-4-6-5-4z" transform="matrix(.46 0 0 .5 240 190)"/>
+    <path fill="none" d="M461 248l2 2-2-2z"/>
+    <path fill="#e80000" fill-rule="evenodd" stroke="#006b00" stroke-linejoin="round" d="M484 123s1 3 4 2l-3-4c0 1 1 2-1 2zm2 8s2 2 5-1l-4-1-1 2z" transform="matrix(.46 0 0 .5 240 190)"/>
+    <path fill="#ffc900" fill-rule="evenodd" stroke="#006b00" stroke-linejoin="round" d="M481 119c-2 1 0 4 3 3 1-4-3-4-3-3z" transform="matrix(.46 0 0 .5 240 190)"/>
+    <path fill="url(#d)" fill-rule="evenodd" d="M145 267s7-2 10 1 4 0 4 0l7 2 1-2c2-1-4 1-5-2-1-2 0-4-2-3-1-2 1-4 1-6-2 1-3 0-4 3-3-1-1-5-4-6 0 3-2 4-3 5s-7 5-5 8z" transform="matrix(.86 0 0 .86 337 12)"/>
+    <path fill="#c01500" fill-rule="evenodd" stroke="#000" d="M392 438c4-1 25 5 33 13-1-15-6-27-6-27s-12-4-14-2a96 96 0 0 0-13 16zm-6-72c-2 0-3 1-5 3-2 4-3 15-5 18-3 2-5 2-5 5 0 2 0 7 7 9 7 0 17-11 17-11s6-6 8-12c-13 4-22-8-18-12zm187 69c-4-1-26 5-34 14a133 133 0 0 1 6-28c1 0 12-3 14-2 3 3 11 11 14 16zm6-72l3 5c1 4 3 10 6 13l4 8c0 2 0 5-7 7-6 1-16-8-16-8s-5-6-8-12c13 4 21-7 18-13z"/>
+    <path fill="#fb0" fill-rule="evenodd" stroke="#000" d="M378 424s14 9 14 14c36-54 128-70 180-4 7-9 14-12 14-12-55-72-165-63-208 2z"/>
+    <g fill="#1e5aa6" fill-rule="evenodd" stroke="#000">
+        <path d="M515 220h5l-9 12 11 13-22 28 21 25a70 70 0 0 1-9 15l-12-13 22-27-18-20 11-33zm-75 2h-6l11 12-12 14 24 25-20 26a76 76 0 0 0 10 16l11-14-23-26 17-22-12-31z"/>
+        <path d="M466 290l-8 11 29 34a74 74 0 0 0 14-9l-15-18 6-18 9 10-28 36a62 62 0 0 1-15-9l15-19-7-18zm-9-17l5 6-3-9-2 3zm38 6l5-6-2-2-3 8z"/>
+    </g>
+    <text x="-328" y="362" font-family="Timmons" font-size="14" font-weight="bold" transform="rotate(-49 183 -362) scale(.86)">
+        <tspan x="-328" y="362">L</tspan>
+    </text>
+    <text x="-292" y="384" font-family="Timmons" font-size="14" font-weight="bold" transform="matrix(.6 -.6 .6 .6 337 12)">
+        <tspan x="-292" y="384">E</tspan>
+    </text>
+    <text x="-240" y="452" font-family="Timmons" font-size="14" font-weight="bold" transform="matrix(.66 -.47 .5 .65 337 12)">
+        <tspan x="-240" y="452">O</tspan>
+    </text>
+    <text x="-189" y="430" font-family="Timmons" font-size="14" font-weight="bold" transform="matrix(.7 -.48 .48 .7 337 12)">
+        <tspan x="-189" y="430">T</tspan>
+    </text>
+    <text x="-115" y="452" font-family="Timmons" font-size="14" font-weight="bold" transform="matrix(.78 -.37 .37 .78 337 12)">
+        <tspan x="-115" y="452">E</tspan>
+    </text>
+    <text x="-94" y="453" font-family="Timmons" font-size="14" font-weight="bold" transform="matrix(.8 -.35 .35 .8 337 12)">
+        <tspan x="-94" y="453">R</tspan>
+    </text>
+    <text x="-68" y="455" font-family="Timmons" font-size="14" font-weight="bold" transform="matrix(.8 -.32 .32 .8 337 12)">
+        <tspan x="-68" y="455">R</tspan>
+    </text>
+    <text x="112" y="446" font-family="Timmons" font-size="14" font-weight="bold" transform="matrix(.86 -.07 .07 .86 337 12)">
+        <tspan x="112" y="446">R</tspan>
+    </text>
+    <text x="180" y="431" font-family="Timmons" font-size="14" font-weight="bold" transform="matrix(.86 0 0 .86 337 12)">
+        <tspan x="180" y="431">R</tspan>
+    </text>
+    <text x="415" y="275" font-family="Timmons" font-size="14" font-weight="bold" transform="matrix(.75 .43 -.43 .75 337 12)">
+        <tspan x="415" y="275">R</tspan>
+    </text>
+    <text x="484" y="193" font-family="Timmons" font-size="14" font-weight="bold" transform="rotate(40 153 472) scale(.86)">
+        <tspan x="484" y="193">E</tspan>
+    </text>
+    <text x="309" y="414" font-family="Timmons" font-size="14" font-weight="bold" transform="matrix(.83 .16 -.13 .82 337 12)">
+        <tspan x="309" y="414">O</tspan>
+    </text>
+    <text x="105" y="459" font-family="Timmons" font-size="14" font-weight="bold" transform="matrix(.78 -.1 .12 .84 337 12)">
+        <tspan x="105" y="459">O</tspan>
+    </text>
+    <text x="-46" y="456" font-family="Timmons" font-size="14" font-weight="bold" transform="matrix(.8 -.3 .3 .8 337 12)">
+        <tspan x="-46" y="456">A</tspan>
+    </text>
+    <text x="518" y="145" font-family="Timmons" font-size="14" font-weight="bold" transform="matrix(.6 .6 -.6 .6 337 12)">
+        <tspan x="518" y="145">A</tspan>
+    </text>
+    <text x="271" y="388" font-family="Timmons" font-size="14" font-weight="bold" transform="matrix(.84 .17 -.17 .84 337 12)">
+        <tspan x="271" y="388">A</tspan>
+    </text>
+    <text x="40" y="455" font-family="Timmons" font-size="14" font-weight="bold" transform="matrix(.85 -.16 .16 .85 337 12)">
+        <tspan x="40" y="455">M</tspan>
+    </text>
+    <text x="94" y="448" font-family="Timmons" font-size="14" font-weight="bold" transform="matrix(.86 -.1 .1 .86 337 12)">
+        <tspan x="94" y="448">P</tspan>
+    </text>
+    <text x="155" y="438" font-family="Timmons" font-size="14" font-weight="bold" transform="matrix(.86 0 0 .86 337 12)">
+        <tspan x="155" y="438">P</tspan>
+    </text>
+    <text x="405" y="277" font-family="Timmons" font-size="14" font-weight="bold" transform="rotate(29 147 652) scale(.86)">
+        <tspan x="405" y="277">P</tspan>
+    </text>
+    <text x="232" y="410" font-family="Timmons" font-size="14" font-weight="bold" transform="matrix(.85 .1 -.1 .85 337 12)">
+        <tspan x="232" y="410">I</tspan>
+    </text>
+    <text x="530" y="132" font-family="Timmons" font-size="14" font-weight="bold" transform="rotate(46 155 399) scale(.87)">
+        <tspan x="530" y="132">T</tspan>
+    </text>
+    <text x="464" y="219" font-family="Timmons" font-size="14" font-weight="bold" transform="rotate(36 149 516) scale(.87)">
+        <tspan x="464" y="219">T</tspan>
+    </text>
+    <text x="314" y="362" font-family="Timmons" font-size="14" font-weight="bold" transform="matrix(.83 .24 -.24 .83 337 12)">
+        <tspan x="314" y="362">M</tspan>
+    </text>
+    <text x="514" y="123" font-family="Timmons" font-size="14" font-weight="bold" transform="matrix(.58 .64 -.64 .58 337 12)">
+        <tspan x="514" y="123">G</tspan>
+    </text>
+    <path fill="none" stroke="#fff700" stroke-linecap="round" d="M557 185s6-5 9-5m-8 4l32-5m-32 5l35-3m-35 3s37-2 39 0m-39 0l37 1m-37-1l35 3m-35-3s35 3 38 8m2 6s-12-14-40-14m0 1s20 1 26 8m-26-9s13-2 26 14"/>
+    <path fill="url(#e)" fill-rule="evenodd" stroke="#000" d="M247 218s21 1 21 3-15 5-15 14c-1 9 11 9 12 20s-9 12-11 15c-2 2-7 17-7 26 1 9 4 39 8 45 4 3 9 12 15 9s2-13 2-16l2-12-2-8c0-1 16 3 15 20-1 16-7 11-7 11s2 19-3 22c-9 5-16-1-16-1l1 4-7-4s-9-12-11-18-5-31-4-37a463 463 0 0 0 0-71l7-22z" transform="matrix(.86 0 0 .86 337 12)"/>
+    <path fill="#ff7000" fill-rule="evenodd" stroke="#000" d="M531 194s12-12 19-10c4 0 1 2 1 2s6 1 7 4l-3 1 3 3c1 2-27 1-27 0z"/>
+    <path fill="none" stroke="#000" d="M532 194s13-2 18-7m-5 3s10 0 10 1"/>
+    <path fill="#fff" fill-rule="evenodd" stroke="#000" stroke-linejoin="round" d="M580 333s8-2 10-5c2-1 9 11-10 5z"/>
+    <path fill="none" stroke="#fff" stroke-linecap="round" d="M578 264s1 6-2 11c-2 1-7 4-7 6l2 8c0 3-3 5-3 7l2 13m-8-66s-6 2-8 9"/>
+    <path fill="#c75b00" fill-rule="evenodd" stroke="#000" d="M559 190s3 6 10 1c-5-7-10-1-10-1z"/>
+    <path fill-rule="evenodd" d="M565 190l-1 1-1-1 1-1 1 1z"/>
+    <path fill="#fff" fill-rule="evenodd" stroke="#000" d="M499 176s14 15 23 15c2 4-4 8-6 10-5-1-9 0-20-13l3-12zm19-35c2-6 6-10 9-11-1-4 6-23 28-30 1 9-9 19-9 19s31-5 38-13c-1 3-8 26-41 25 13 13-4 22-12 19 14-10-3-16-13-9z"/>
+    <path fill="#cccccd" fill-rule="evenodd" stroke="#ccc" d="M529 133c6-4 9-4 14-3h-4l2 3c-3-1-5-2-12 0z"/>
+    <path fill="none" stroke="#000" d="M527 130l19-11"/>
+    <path fill="#00f" fill-rule="evenodd" stroke="#000" d="M516 201s17 5 19-20c-4-11-9-34-1-41-7-5-15 0-15 0-1 1-7 11 1 27-21-5-12 14-12 14 1-3 12-6 15 10 1 4-8 10-7 10z"/>
+    <path fill="#00f" fill-rule="evenodd" stroke="#000" d="M535 181s19-10 18-33c-16 0-21 21-21 21l3 12z"/>
+    <path fill="#fff" fill-rule="evenodd" stroke="#000" d="M453 180s-14 12-21 8c-6 3-13-3-13-3s8 29 36 8l-2-13z"/>
+    <path fill="#00f" fill-rule="evenodd" stroke="#000" d="M432 187c1-6 6-9 9-3 5 1 10-20-8-16 5-27-10-38-10-38s-5 31-3 36c3 6-3-10-23-15 0 23 22 34 22 34s6 6 12 2z"/>
+    <path fill="none" stroke="#000" d="M433 168s-8 7-6 17m-7-18s-2 7 3 17m-4 2s4-6 13 2"/>
+    <path fill="#fff" fill-rule="evenodd" stroke="#000" d="M421 142s-13 0-6 13c-5 2-18-7-9-18-29 0-41-14-41-27 9 9 29 5 36 11-9-9-7-20-7-20s25 7 29 29l-2 12z"/>
+    <path fill="none" stroke="#000" d="M401 120c5 5 17 6 23 12"/>
+    <path fill="#cccccd" fill-rule="evenodd" stroke="#ccc" d="M407 134s10-1 13 2c-4 1-6 0-11 2l2-3-4-1z"/>
+    <path fill="#923f00" fill-rule="evenodd" stroke="#000" d="M457 55s6-5 12-1c-3 8-13 5-13 5l-1 6 4 7s10-3 12 2h7l11-2c2 0 11 2 12 4 1 1 4 12 6 12s-5 3-7 0-1 4-1 4l6 7c1 1-3 12 0 19-3 0-3 3-3 3 0 4-4 4-4 4l-1-4-3 2 1-4 4-12c0-3-3-8-6-8s-5 9-5 9l-1 8-2-2-3 5c-1 2-3 2-3 2l-1-6c1-2 8-8 8-12l-1-4-4-5c0-2-5 2-11 1-2 3-2 11-2 11s-1 10 1 11c1 2-3 4-3 4l-4 4-1-2-2 1 1-3c0-2 3-9 3-15l1-12s-6 0-6 6-2 7-1 9c0 1 2 6 1 8l-2 2-1 1s-6 2-6 4v-8s3-3 3-8v-8l1-7-5 2 2-6c1-3-3 2-6-1 1-3 4-4 4-6s-2 2-5 0c0-2 3-4 3-4h-3l2-6c0-3-2-4-2-5l-4-4v-2s-6 4-12-5c6-5 12-1 12-1s2-5 9-4c8 0 9 4 9 4z"/>
+    <path fill="#00f" fill-rule="evenodd" stroke="#000" d="M498 140s14 0 14 7c0 8-4 6-4 6l-10-1v-12z"/>
+    <path fill="#fffeff" fill-rule="evenodd" stroke="#000" d="M485 138s17-1 16 7-5 6-5 6l-9-1-2-12z"/>
+    <path fill="#00f" fill-rule="evenodd" stroke="#000" d="M475 137h10s6 1 6 7-6 6-6 6l-10-1v-12z"/>
+    <path fill="#fff" fill-rule="evenodd" stroke="#000" d="M452 140s-14 0-14 7c0 8 4 6 4 6l10-1v-12z"/>
+    <path fill="#00f" fill-rule="evenodd" stroke="#000" d="M465 138s-17-1-16 7c1 7 5 6 5 6l9-1 2-12z"/>
+    <path fill="#fff" fill-rule="evenodd" stroke="#000" d="M475 137h-10s-6 1-6 7c1 6 6 6 6 6l10-1v-12z"/>
+    <path fill="#5e0043" fill-rule="evenodd" stroke="#000" d="M502 219s7-10 10-9c2 1 0 9-1 10l-9-1zm-49 2c-3-3-6-11-9-9-3 1-1 9 1 10l8-1z"/>
+    <path fill="none" stroke="#000" d="M457 200s14 9 19 9c4 1 19-11 19-11"/>
+    <path fill="#5e0043" fill-rule="evenodd" stroke="#000" d="M459 167l2-4 14 7 13-6 3 3-15 11-17-11z"/>
+    <path fill="#474747" fill-rule="evenodd" stroke="#474747" stroke-linejoin="round" d="M448 167c1 1 10 11 11 20 2 9-1-12-1-12s11 5 11 9c1 3 6 0 6-1l-31-20 4 4zm53-1s-11 15-10 31c-2-8-1-21-1-21l-2 2s-2 11-6 13v-2l-4 5v15l2 10a45 45 0 0 0-3 2l-1-28 3-3s4-5 4-10l-4 2s0 7-2 8l-1 3-1-10 26-17z"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" d="M475 183l2 45"/>
+    <path fill="none" stroke="#000" d="M448 204s5 3 7 13c16-2 22 4 22 4s13-6 20-5c2-5 8-11 8-11"/>
+    <path fill="#b4b6b9" fill-rule="evenodd" stroke="#000" d="M441 161l34 22 31-21s7-3 6-6-3-1-4-1l-32 23-34-21s-2-1-3 0 1 3 2 4z"/>
+    <path fill="#474747" fill-rule="evenodd" stroke="#474747" stroke-linejoin="round" d="M502 155s-8-4-8-1l1 6c2 2-1 3-1 3l-1-2c0-1-5-2-5-4-1-2 1-4-2-5a5 5 0 0 0-6 5 68 68 0 0 1-5 11l1-18 27 3c-3 0 1 0 0 1l-1 1zm-31-4l-11 2c-2 1 3 3 2 4 0 2 0 5-3 4l-11-6-2-1s24-4 25-3z"/>
+    <path fill="none" stroke="#000" d="M475 149v21m-16-46l-10 16"/>
+    <path fill="url(#f)" fill-rule="evenodd" stroke="#000" d="M162 130s5 6 4 8a25 25 0 0 1 4 8" transform="matrix(.86 0 0 .86 337 12)"/>
+    <path fill="none" stroke="#000" d="M493 122l-9 14"/>
+    <path fill-rule="evenodd" d="M446 61l-2 1-2-2 2-1 2 2zm4 0l2 1c2 0 3-2 2-2l-2-1-2 2z"/>
+    <path fill="#ff7000" fill-rule="evenodd" stroke="#000" stroke-linejoin="round" d="M556 327l-3 1h-10l-2 2 2-1 3 2v1h1l16-1-7-4zm6 5h-13l-4 4c-1 1 3 1 3 1v2h2s11 1 22-1c5-2 6-4 2-5-3-2-12-1-12-1z"/>
+    <path fill="url(#g)" fill-rule="evenodd" stroke="#000" d="M208 404l28-1-5-5 76-3-3-6-85 4 11 4-23 1v2h-5l6 4z" transform="matrix(.86 0 0 .86 337 12)"/>
+    <path fill="url(#h)" fill-rule="evenodd" stroke="#000" d="M240 249c-3-1-12-2-23 5v25s16-8 24-6l-1-23z" transform="matrix(.86 0 0 .86 337 12)"/>
+    <path fill="none" stroke="#000" d="M410 292l-56 56m82-56l-46 61m44-77l-62 75m-2-1l6-7m69-29l-24 32m0 5v12m35-38l-25 32m21-3l10-16m-6-4l-13 14m9-27l-8 10m-3-25s-26 38-25 41m22-46l-22 29m-1 9l-4 5m-5 7l-6 8"/>
+    <path fill="#8a9396" fill-rule="evenodd" stroke="#2b2b2b" d="M408 205s-2 6 0 8l12 25s8-9 11-9c2 0 1 24 1 24s-4 4-7 4c-3-1 7 9 6 17s-12 49-17 50c-4 1 2-7 2-10 0-2-1 0-2-3s1-6 1-9-3-2-3-3l1-4c0-2-3-2-3-4v-4c0-3 0 2-3 3-3 0-5 6-5 6s-6 8-11 4c3 7 1 10 0 10s1 6-2 6 2 12-2 13c4 2 1 4 1 4s-9 1-7 12c-25-9-37-25-37-40 0-16 5-30 17-35l10-27-1-10 5-7-1-14 3-9c0-2-1-15 1-17 3-2 8-2 10-3 3-2 6-5 9-4l6 2s12 0 13 5-3 6-3 6 2 7-5 13z"/>
+    <path fill="#cecfcf" fill-rule="evenodd" stroke="#2b2b2b" d="M397 188l-2 3h-4l3-3h3z"/>
+    <path fill-rule="evenodd" d="M395 189l-1 1-1-1h2z"/>
+    <path fill="none" stroke="#2b2b2b" d="M413 198s3 13-1 22m2-28s6 7 5 17m-5-19c1 0 5 4 5 7m-3-9l4 5"/>
+    <path fill="none" stroke="#000" d="M414 187s-11 19-10 30"/>
+    <path fill="none" stroke="#2b2b2b" d="M415 186s-16 9-18 39"/>
+    <path fill="none" stroke="#000" d="M413 192l-6 4"/>
+    <path fill="none" stroke="#2b2b2b" d="M391 227s8-36 24-41"/>
+    <path fill="#2b2b2b" fill-rule="evenodd" stroke="#2b2b2b" d="M421 239s8-10 10-10 1 24 1 24l-8 4c-1 0 7 11 7 15v5l-2-7c-2-4-1-8-13-19-3-6 6 4 8 3 2-2-4-15-3-15z"/>
+    <path fill="none" stroke="#2b2b2b" d="M406 181l-4 2c0 2-2 3-3 3a19 19 0 0 1-4-2"/>
+    <path fill="#2b2b2b" fill-rule="evenodd" stroke="#2b2b2b" stroke-linejoin="round" d="M387 193s-6 5-3 6c2 1 5-4 5-4s0 8 2 7l9-6h2c1 0 6 5 10 3-2 5-4 6-4 6s-4 5-9 4-6-4-6-4-4 1-5-1l-2-3s-2 2-3 1 0-7 4-9z"/>
+    <path fill="none" stroke="#2b2b2b" d="M416 186s-10-3-13 2-3 7-1 8"/>
+    <path fill-rule="evenodd" d="M417 186l-2 2-1-2 1-2c1 0 2 0 2 2z"/>
+    <path fill="#2b2b2b" fill-rule="evenodd" stroke="#2b2b2b" d="M389 210s4 6 9 8-3 3-8 0c-3-5-2-8-2-8h1zm34 35s-11-15-14-16c-4-1 2-1 5 2 4 3-1-5-1-5l10 19z"/>
+    <path fill="#2b2b2b" fill-rule="evenodd" stroke="#2b2b2b" stroke-linejoin="round" d="M388 333c5-1 23 10 27 13s13 1 13 1l-7 3 7 1s-23 6-47-6c-2-10 5-12 7-12z"/>
+    <path fill="#2b2b2b" fill-rule="evenodd" stroke="#2b2b2b" d="M415 249l-5-2c-1-2-3-7-6-9s-14-8-18-7l-6-1c0-1-2 0-2 2 1 2-3 7-2 9a64 64 0 0 0 9 12v5s5 6 7 6c1 0 3 1 2 2l-5 9s-7 3-7 5c0 1 2 5 7 6a45 45 0 0 0 18-1l2-8c-1-1-4-3-6-2l-3 2h-2l5-6c1 0 8 1 9 4s1 6 5 6c3 0 8-4 9-11 0-7-4-11-5-12l-6-4v-5zM350 279l15-3c3 0 14 6 18 9 3 3 10 11 14 10l6-1-2 3h-5a19 19 0 0 1-9-5c-4-3-15-12-24-12-9 1-14 10-14 10v-5l-2 2 3-8z"/>
+    <path fill="#2b2b2b" fill-rule="evenodd" stroke="#2b2b2b" d="M393 288l8 1c5 0 7-2 7-2v-2l1-2 3 4-1 1-1-2-1 2s-7 5-11 5c-4-1-7-4-6-4l1-1zm-17 10l-6 1-4 2c-1 0-2-2-1-3 0-1 3-2 7-2s4 2 4 2zm15 11s0-6-3-8a7 7 0 0 0-6-2l5 4c1 2 3 7 2 8 0 1-1-3-5-5s-9 0-8 1 5 1 8 4 3 7 3 7l1-2 2-1v-5l1-1z"/>
+    <path fill="#2b2b2b" fill-rule="evenodd" stroke="#2b2b2b" stroke-linejoin="round" d="M388 329l-4-8s-1-5-4-6c-4-2-8-1-8 0 0 2 7 4 7 5v2h-5c-2 0-3 2-5 1-2 0-4-8-3-8 1-1-2 1-3-1v-9l-5-4s0-29 25-5c-11-12-15-11-17-11-1 0-11 1-13 13-3 12-5 4-5 4s-1 5 2 7-2 6-2 6-4-11-3-16c-1 4-1 13 5 24a78 78 0 0 0 29 21l9-15z"/>
+    <path fill="#8a9396" fill-rule="evenodd" stroke="#2b2b2b" stroke-linejoin="round" d="M372 329s5 0 6 3a24 24 0 0 1 2 6l3-4 3-2c0-1-6-7-8-7-3 0-7 3-7 3s-1 1 1 1z"/>
+    <path fill="none" stroke="#8a9396" stroke-linecap="round" d="M383 341s13 6 34 7"/>
+    <path fill="none" stroke="#2b2b2b" stroke-linecap="round" d="M426 282s-1 11-10 32"/>
+    <path fill="none" stroke="#2b2b2b" d="M424 289s-2 7-9 13"/>
+</svg>
